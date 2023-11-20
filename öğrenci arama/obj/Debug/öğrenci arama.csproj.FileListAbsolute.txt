@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\öğrenci arama\öğrenci arama\bin\Debug\öğrenci arama.exe.config
+C:\Users\User\source\repos\öğrenci arama\öğrenci arama\bin\Debug\öğrenci arama.exe
+C:\Users\User\source\repos\öğrenci arama\öğrenci arama\bin\Debug\öğrenci arama.pdb
+C:\Users\User\source\repos\öğrenci arama\öğrenci arama\obj\Debug\öğrenci arama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\öğrenci arama\öğrenci arama\obj\Debug\öğrenci arama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\öğrenci arama\öğrenci arama\obj\Debug\öğrenci_arama.Form1.resources
+C:\Users\User\source\repos\öğrenci arama\öğrenci arama\obj\Debug\öğrenci_arama.Properties.Resources.resources
+C:\Users\User\source\repos\öğrenci arama\öğrenci arama\obj\Debug\öğrenci arama.csproj.GenerateResource.cache
+C:\Users\User\source\repos\öğrenci arama\öğrenci arama\obj\Debug\öğrenci arama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\öğrenci arama\öğrenci arama\obj\Debug\öğrenci arama.exe
+C:\Users\User\source\repos\öğrenci arama\öğrenci arama\obj\Debug\öğrenci arama.pdb
